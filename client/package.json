@@ -15,7 +15,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.4.4",
-    "@safe-globalThis/safe-ethers-adapters": "^1.0.0"
+    @safe-globalthis/safe-ethers-adapters": "^1.0.0"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^2",
