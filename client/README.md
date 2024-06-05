@@ -11,7 +11,6 @@ You can start editing the page by modifying `src/main.jsx`. The page auto-update
 On `src/index.jsx`, you'll find our `ThirdwebProvider` wrapping your app,
 this is necessary for our [hooks](https://portal.thirdweb.com/react) and
 [UI Components](https://portal.thirdweb.com/ui-components) to work.
-
 ### Deploy to IPFS
 
 Deploy a copy of your application to IPFS using the following command:
